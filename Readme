@@ -1,7 +1,11 @@
-Introduction -
+about PRoject  -
 This project is made for Mentors to Reduce the work-load of mentors .
 There are 3 user in this system - Admin,Mentor,Student.
 This project is built on php .
 Front-end is done Using css,Tailwind,bootstrap
 For Backend PHP and javascript is used .
+--------Users--------------------------
+Admin - Admin assigns mentor to the students and performs other related Task's .
+Mentor - mentor manage's student's which he/she has under his/her guidance .
+student - Student's can perform tasks told by their respective mentor .
 
